@@ -1,4 +1,4 @@
 # Java-API-Example
-Exemplo de uma API feita em Java
+Java API Example
 
-*Leia esse texto em outros idiomas: [English](README.md), [Português](README.pt-br.md).*
+*Read this in other languages: [English](README.md), [Português](README.pt-br.md).*
